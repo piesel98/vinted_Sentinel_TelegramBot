@@ -1,8 +1,29 @@
 {
     "token": "8943919561:AAHmWio_GicVoxzORno4TntQPREmwIkKGvo",
     "channel_id": "8796664274",
-    "search_terms": ["ralph lauren", "nike"],
-    "refresh_delay": 3,
-    "max_images_per_post": 4,
-    "countries": [".de", ".it", ".fr"]
+    "search_terms": ["ralph lauren", "spitfire", "thrasher vintage"
+
+"alien workshop"
+
+"dc shoes vintage", "dc baggy"
+
+"nike center swoosh", "nike vintage mini swoosh"
+    "fubu", "fubu vintage", "fubu denim"
+
+"karl kani", "kani denim"
+
+"southpole", "southpole baggy", "southpole jens"
+
+"eckō unltd.", "ecko", "ecko unltd""pelle pelle", "pelle pelle leather"
+
+"pnb nation"
+
+"sir benni miles"
+
+"dada supreme"
+
+"wu wear", "wu-tang"],
+    "refresh_delay": 10,
+    "max_images_per_post": 10,
+    "countries": [".de", ".it", ".fr",".pl"]
 }
